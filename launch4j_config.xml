@@ -1,0 +1,29 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>/home/cpa/src/java_workspace_test/dist/workspace-20090505.jar</jar>
+  <outfile>Analyst&apos;s Workspace.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>components.AnalystsWorkspace</mainClass>
+    <cp>lucene-core-2.4.0.jar</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <initialHeapSize>512</initialHeapSize>
+    <maxHeapSize>2048</maxHeapSize>
+    <opt>-Dsun.java2d.opengl=true</opt>
+  </jre>
+</launch4jConfig>

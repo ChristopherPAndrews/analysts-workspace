@@ -1,0 +1,112 @@
+<svg contentScriptType="text/ecmascript" contentStyleType="text/css" height="400px" preserveAspectRatio="xMidYMid meet" version="1.0" viewBox="0 0 400.0 400.0" width="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title>dolls group</dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>people</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Yutaka Kachi</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <radialGradient cx="29%" cy="35%" fx="97%" fy="100%" gradientTransform="" gradientUnits="objectBoundingBox" id="radial_green" r="100%" spreadMethod="pad" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+      <stop offset="0%" style="stop-color:#99ff99;stop-opacity:1;"/>
+      <stop offset="100%" style="stop-color:#00cc00;stop-opacity:1;"/>
+    </radialGradient>
+    <radialGradient cx="29%" cy="35%" fx="97%" fy="100%" gradientTransform="" gradientUnits="objectBoundingBox" id="radial_red" r="100%" spreadMethod="pad" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+      <stop offset="0%" style="stop-color:#ffcccc;stop-opacity:1;"/>
+      <stop offset="100%" style="stop-color:#ff0000;stop-opacity:1;"/>
+    </radialGradient>
+    <radialGradient cx="29%" cy="35%" fx="97%" fy="100%" gradientTransform="" gradientUnits="objectBoundingBox" id="radial0" r="100%" spreadMethod="pad" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+      <stop offset="0%" style="stop-color:#9999ff;stop-opacity:1;"/>
+      <stop offset="100%" style="stop-color:#3300cc;stop-opacity:1;"/>
+    </radialGradient>
+  </defs>
+  <g id="5">
+    <g id="0">
+      <ellipse cx="165" cy="303" rx="96" ry="15" style="fill:#999999;" transform="matrix( 0.4777468667254857, 0, 0, 0.6152709765371864, 55.5685754062591, -28.5748099588075)"/>
+      <rect height="149" style="fill:#00cf00;" transform="matrix( 0.5710189620671009, 0, 0, 0.4166874825846716, -0.3935770683444204, 31.30505825925212)" width="101" x="149" y="150"/>
+      <ellipse cx="198.5" cy="318" rx="50.5" ry="20" style="fill:#00cc00;" transform="matrix( 0.5710189620671009, 0, 0, 0.5593372513974423, 0.1774418131348696, -23.09330489511256)"/>
+      <ellipse cx="198.5" cy="318" id="0" rx="50.5" ry="20" style="fill:#99ff99;" transform="matrix( 0.5710189620671009, 0, 0, 0.5593372513974423, 0.1774418131348696, -83.50172804603632)"/>
+      <circle cx="196.5" cy="100.5" r="73.5" style="fill:url(#radial_green);" transform="matrix( -0.5320135284508043, 0.1390861811653275, -0.1365818038172901, -0.5417685806778492, 231.1803084318787, 82.11075934708828)"/>
+    </g>
+    <g id="3">
+      <ellipse cx="165" cy="303" rx="96" ry="15" style="fill:#999999;" transform="matrix( 0.485896805556029, 0, 0, 0.6220319030543612, 3.9350395982442024, 1.6660073286286874)"/>
+      <rect height="149" style="fill:#ff0000;" transform="matrix( 0.5807600403159747, 0, 0, 0.4212662674742776, -52.98177768163504, 62.20386756048182)" width="101" x="149" y="150"/>
+      <ellipse cx="198.5" cy="318" rx="50.5" ry="20" style="fill:#ff0000;" transform="matrix( 0.5807600403159747, 0, 0, 0.5654835482312375, -52.40101772328164, 7.207746101294816)"/>
+      <ellipse cx="198.5" cy="318" id="0" rx="50.5" ry="20" style="fill:#ff9999;" transform="matrix( 0.5807600403159747, 0, 0, 0.5654835482312375, -52.40101772328164, -53.86447710767882)"/>
+      <circle cx="196.5" cy="100.5" r="73.5" style="fill:url(#radial_red);" transform="matrix( -0.5410892085146297, 0.1406145345027555, -0.138911768541299, -0.5477218235626214, 182.54255340604703, 113.567848861114)"/>
+    </g>
+    <g id="4">
+      <ellipse cx="165" cy="303" rx="96" ry="15" style="fill:#999999;" transform="matrix( 0.4986029399340563, 0, 0, 0.6331494366295387, 102.84869813490528, -1.5863332579533491)"/>
+      <rect height="149" style="fill:#0000ff;" transform="matrix( 0.5959468351853071, 0, 0, 0.4287955306032872, 44.44351394160253, 60.03351600113817)" width="101" x="149" y="150"/>
+      <ellipse cx="198.5" cy="318" rx="50.5" ry="20" style="fill:#0000ff;" transform="matrix( 0.5959468351853071, 0, 0, 0.5755903969359442, 45.039460692681985, 4.054452632018908)"/>
+      <ellipse cx="198.5" cy="318" id="0" rx="50.5" ry="20" style="fill:#9999ff;" transform="matrix( 0.5959468351853071, 0, 0, 0.5755903969359442, 45.039460692681985, -58.10931023706307)"/>
+      <circle cx="196.5" cy="100.5" r="73.5" style="fill:url(#radial0);" transform="matrix( -0.5552386166096672, 0.1431277284415489, -0.1425442921092516, -0.5575112181795447, 286.7649963217889, 111.67903865028697)"/>
+    </g>
+  </g>
+  <g id="6">
+    <g id="0">
+      <ellipse cx="165" cy="303" id="1" rx="96" ry="15" style="fill:#999999;" transform="matrix( 0.4941517124980166, 0, 0, 0.6114760362196217, 196.28690611865298, 154.63198326098723)"/>
+      <rect height="149" id="1" style="fill:#00cf00;" transform="matrix( 0.5906265799466422, 0, 0, 0.4141173887759487, 138.40312831401405, 214.14251742173417)" width="101" x="149" y="150"/>
+      <ellipse cx="198.5" cy="318" id="1" rx="50.5" ry="20" style="fill:#00cc00;" transform="matrix( 0.5906265799466422, 0, 0, 0.5558873056542014, 138.99375481060568, 160.0796788563984)"/>
+      <ellipse cx="198.5" cy="318" id="1" rx="50.5" ry="20" style="fill:#99ff99;" transform="matrix( 0.5906265799466422, 0, 0, 0.5558873056542014, 138.99375481060568, 100.04384984574466)"/>
+      <circle cx="196.5" cy="100.5" id="1" r="73.5" style="fill:url(#radial_green);" transform="matrix( -0.5502817798847804, 0.1382283091436516, -0.1412717423245042, -0.5384269970374578, 377.92878522535096, 264.6348531619873)"/>
+      <circle cx="173.5" cy="354.5" r="17.5" style="fill:#ffffff;" transform="matrix( 0.5523142130174192, 0, 0, 0.5478380249604271, 131.81462902404562, 46.86683904374229)"/>
+      <circle cx="268.5" cy="361.5" r="9.5" style="fill:#000000;" transform="matrix( 0.5523142130174192, 0, 0, 0.5478380249604271, 83.76329249153014, 43.0319728690193)"/>
+      <circle cx="173.5" cy="354.5" id="2" r="17.5" style="fill:#ffffff;" transform="matrix( 0.5523142130174192, 0, 0, 0.5478380249604271, 161.63959652698622, 47.414677068702716)"/>
+      <circle cx="268.5" cy="361.5" id="2" r="9.5" style="fill:#000000;" transform="matrix( 0.5523142130174192, 0, 0, 0.5478380249604271, 104.19891837317465, 43.5798108939797)"/>
+    </g>
+    <g id="3">
+      <ellipse cx="165" cy="303" id="1" rx="96" ry="15" style="fill:#999999;" transform="matrix( 0.5172725846502921, 0, 0, 0.619149569693299, 242.57114173792388, 193.70282899726112)"/>
+      <rect height="149" id="1" style="fill:#ff0000;" transform="matrix( 0.6182614161706225, 0, 0, 0.4193142296275546, 181.9790389544109, 253.9601725975769)" width="101" x="149" y="150"/>
+      <ellipse cx="198.5" cy="318" id="1" rx="50.5" ry="20" style="fill:#ff0000;" transform="matrix( 0.6182614161706225, 0, 0, 0.5628632451757265, 182.59730028332638, 199.21888879998323)"/>
+      <ellipse cx="198.5" cy="318" id="1" rx="50.5" ry="20" style="fill:#ff9999;" transform="matrix( 0.6182614161706225, 0, 0, 0.5628632451757265, 182.59730028332638, 138.4296583210048)"/>
+      <circle cx="196.5" cy="100.5" id="1" r="73.5" style="fill:url(#radial_red);" transform="matrix( -0.5760289226319457, 0.139962963479055, -0.1478817080706558, -0.5451838236997779, 432.71186554778956, 305.08614662537815)"/>
+      <circle cx="173.5" cy="354.5" r="17.5" style="fill:#ffffff;" transform="matrix( 0.5781564513099996, 0, 0, 0.5547129524697324, 177.0686305760692, 82.09567879518494)"/>
+      <circle cx="268.5" cy="361.5" r="9.5" style="fill:#000000;" transform="matrix( 0.5781564513099996, 0, 0, 0.5547129524697324, 126.76901931209926, 78.21268812789681)"/>
+      <circle cx="173.5" cy="354.5" id="2" r="17.5" style="fill:#ffffff;" transform="matrix( 0.5781564513099996, 0, 0, 0.5547129524697324, 208.2890789468092, 82.65039174765465)"/>
+      <circle cx="268.5" cy="361.5" id="2" r="9.5" style="fill:#000000;" transform="matrix( 0.5781564513099996, 0, 0, 0.5547129524697324, 148.16080801056927, 78.7674010803665)"/>
+    </g>
+    <g id="4">
+      <ellipse cx="165" cy="303" id="1" rx="96" ry="15" style="fill:#999999;" transform="matrix( 0.5229768884365543, 0, 0, 0.6094875212029638, 134.52267990766458, 194.30867821525717)"/>
+      <rect height="149" id="1" style="fill:#0000ff;" transform="matrix( 0.6288449284791207, 0, 0, 0.4127706824498412, 72.67596843672052, 253.62568461069782)" width="101" x="149" y="150"/>
+      <ellipse cx="198.5" cy="318" id="1" rx="50.5" ry="20" style="fill:#0000ff;" transform="matrix( 0.6288449284791207, 0, 0, 0.554079564729967, 73.30481327645089, 199.73865794961085)"/>
+      <ellipse cx="198.5" cy="318" id="1" rx="50.5" ry="20" style="fill:#9999ff;" transform="matrix( 0.6288449284791207, 0, 0, 0.554079564729967, 73.30481327645089, 139.89806495877443)"/>
+      <circle cx="196.5" cy="100.5" id="1" r="73.5" style="fill:url(#radial0);" transform="matrix( -0.5858894913707905, 0.1377787918246104, -0.1504131742702795, -0.536676036892556, 328.37433993480903, 303.34112264097575)"/>
+      <circle cx="173.5" cy="354.5" r="17.5" style="fill:#ffffff;" transform="matrix( 0.6048889312037257, 0, 0, 0.554079564729967, 64.75252224913486, 81.16563109739795)"/>
+      <circle cx="268.5" cy="361.5" r="9.5" style="fill:#000000;" transform="matrix( 0.6048889312037257, 0, 0, 0.554079564729967, 12.127185234410774, 77.28707414428817)"/>
+      <circle cx="173.5" cy="354.5" id="2" r="17.5" style="fill:#ffffff;" transform="matrix( 0.6048889312037257, 0, 0, 0.554079564729967, 97.41652453413599, 81.71971066212791)"/>
+      <circle cx="268.5" cy="361.5" id="2" r="9.5" style="fill:#000000;" transform="matrix( 0.6048889312037257, 0, 0, 0.554079564729967, 34.50807568894858, 77.84115370901813)"/>
+    </g>
+  </g>
+</svg>
