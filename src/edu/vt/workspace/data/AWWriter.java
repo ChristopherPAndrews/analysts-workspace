@@ -124,10 +124,10 @@ public final class AWWriter {
             writer.writeStartElement(name);
             writer.writeAttribute("type", rect.getClass().getName());
              writer.writeCharacters("\n");
-            write("x", new Double(rect.getX()).intValue());
-            write("y", new Double(rect.getY()).intValue());
-            write("width", new Double(rect.getWidth()).intValue());
-            write("height", new Double(rect.getHeight()).intValue());
+            write("x", Double.valueOf(rect.getX()).intValue());
+            write("y", Double.valueOf(rect.getY()).intValue());
+            write("width", Double.valueOf(rect.getWidth()).intValue());
+            write("height", Double.valueOf(rect.getHeight()).intValue());
             writer.writeEndElement();
             writer.writeCharacters("\n");
             writer.flush();

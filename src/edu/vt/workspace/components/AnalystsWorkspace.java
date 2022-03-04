@@ -147,8 +147,8 @@ public class AnalystsWorkspace extends JFrame
         //setBounds(0, 10, 1300, 1000); // Thor test bounds
         //Set up the GUI.
         _desktop = new WorkspacePane(createPopupMenu()); //a specialized layered pane
-        _desktop.add(AWPopupTextWindow.getInstance(), new Integer(WorkspacePane.PREVIEW_LAYER));
-        _desktop.add(AWTooltip.getInstance(), new Integer(WorkspacePane.PREVIEW_LAYER));
+        _desktop.add(AWPopupTextWindow.getInstance(), Integer.valueOf(WorkspacePane.PREVIEW_LAYER));
+        _desktop.add(AWTooltip.getInstance(), Integer.valueOf(WorkspacePane.PREVIEW_LAYER));
         
         AWController.getInstance().setWorkspace(_desktop);
         AWController.getInstance().setController(this);
@@ -544,6 +544,7 @@ public class AnalystsWorkspace extends JFrame
                 System.out.println("Done");
 
             } catch (IOException ex) {
+                Logger.getLogger(AnalystsWorkspace.class.getName()).log(Level.SEVERE, "Error reading in files");
                 Logger.getLogger(AnalystsWorkspace.class.getName()).log(Level.SEVERE, null, ex);
             }
            

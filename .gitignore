@@ -1,5 +1,6 @@
-.svn
+
 
 dist
 build
 logs
+.DS_Store
